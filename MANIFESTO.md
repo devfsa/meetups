@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Manifesto - DevFSA Meetups</h2>
+<h2 align="center">Manifesto - DevFSA Meetups</h2>
 
 ### Resumo
 
@@ -21,4 +21,4 @@ Os eventos serão organizados e mediados pelos organizadores do DevFSA e pelas e
 
 As inscrições do DevFSA Meetups acontecerão online (através de uma plataforma que ainda será escolhida), de forma gratuita e com um número limitado de vagas (sempre respeitando as recomendações e limitações do espaço). Todo participante inscrito, que não puder participar de qualquer encontro, deve entrar em contato com a organização do Meetup para justificar a falta. Caso o participante tenha 2 faltas seguidas este ficará com a inscrição bloqueada por 1 evento.
 
-<p style="text-align: right;">Feira de Santana, 15 de Outubro de 2018</p>
+<p align="right">Feira de Santana, 15 de Outubro de 2018</p>
