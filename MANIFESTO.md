@@ -5,8 +5,7 @@
 - Nome do evento: DevFSA Meetups
 - Organizadores: Calebe Oliveira, Diego Leite e Dilan Nery
 - Espaço: Digitaliza Negócios e Club4Work
-- Coffee break: [Absam.io](https://absam.io/), [AdMobilize.com](https://www.admobilize.com/), [AgenciaLove.com](http://agencialove.com/), [App2Sales.com](https://app2sales.com/),
-[Binarii.com.br](http://binarii.com.br/), [Gerenciagram.com.br](https://gerenciagram.com.br/), [Hostoo.io](https://hostoo.io/) e [Huggy.io](https://huggy.io/) 
+- Apoio financeiro: [Absam.io](https://absam.io/), [AdMobilize.com](https://www.admobilize.com/), [Binarii.com.br](http://binarii.com.br/), [Gerenciagram.com.br](https://gerenciagram.com.br/), [Hostoo.io](https://hostoo.io/), [Huggy.io](https://huggy.io/) e [Paggue](https://paggue.io)
 - Periodicidade: A cada 15 dias
 - Formato: Atividades ou Palestras de até 30 minutos
 - Duração total: máximo de 2 horas por encontro
