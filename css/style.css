@@ -1,9 +1,5 @@
 body {
   background: #F3F3F8;
-  /* background: -moz-linear-gradient(-45deg, #3f1567 0%, #c11c7a 100%);
-  background: -webkit-linear-gradient(-45deg, #3f1567 0%, #c11c7a 100%);
-  background: linear-gradient(135deg, #3f1567 0%, #c11c7a 100%); */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f1567", endColorstr="#c11c7a", GradientType=1);
   color: #ffffff;
   min-height: 100vh;
 }
@@ -179,5 +175,9 @@ body .glitch:after {
   }
 }
 section {
-  padding: 2rem 0;
+  padding: 3rem 0;
+  text-align: center;
+}
+section .container {
+  margin-bottom: 1.25rem;
 }
